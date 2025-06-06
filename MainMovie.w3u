@@ -1,0 +1,51 @@
+{
+    "name": "Movie",
+    "author": "",
+    "url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/Movie.w3u",
+    "image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+  "groups": [
+{
+"name": "หนัง ปี 2025",
+"image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+"url":"https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2025.w3u"
+},
+{
+"name": "หนัง ปี 2024",
+"image": "https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+"url":"https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังใหม่ 2024.w3u"
+},
+{
+"name": "หนังฝรั่ง",
+"image":"https://image.winudf.com/v2/image1/Y29tLmhkbW92aWVzLndhdGNoZnJlZS50dnNob3cucHJlbWl1bV9zY3JlZW5fMF8xNjQzNjE0MjgyXzAwNA/screen-0.jpg?fakeurl=1&type=.jpg",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังฝรั่ง.w3u"
+},
+{
+"name": "หนังไทย",
+"image":"https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังไทย.w3u"
+},
+{
+"name": "หนังจีน",
+"image":"https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังจีน.w3u"
+},
+{
+"name": "หนังเกาหลี",
+"image":"https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังเกาหลี.w3u"
+},
+{
+"name": "หนังญี่ปุ่น",
+"image":"https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังญี่ปุ่น.w3u"
+},
+{
+"name": "หนังอินเดีย",
+"image":"https://www.dropbox.com/scl/fi/93eadutdhzh66kvnk6ov0/Main-Pic.jpg?rlkey=pwbslzb6307m0omdmagdykfe7&st=aorpj11a&dl=1",
+"url": "https://raw.githubusercontent.com/Terminal-48/Movie-123HD/main/หนังอินเดีย.w3u"
+}
+
+
+
+]
+}
